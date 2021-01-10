@@ -11,20 +11,19 @@
 
 <p align = "center"> Obs: É necessário ter um ambiente de desenvolvimento Python instlado em sua máquina.  </p>
 
-<p align = "center">
-<p > Python 3.8</p> <a href="">https://www.python.org/downloads/</a> <br>
+<br>
+<p align= "center"> Python 3.8</p> <p align= "center"><a href="">https://www.python.org/downloads/</a></p> 
+<br>
+<p align= "center"> VsCode</p> <p align= "center"><a href="">https://code.visualstudio.com/download</a> </p> 
 
 <br>
-<p> VsCode</p> <a href="">https://code.visualstudio.com/download</a> <br>
+<p align= "center"> Biblioteca PyQt5</p> <p align= "center"><a href="">https://pypi.org/project/PyQt5/</a></p> 
 
 <br>
-<p> Biblioteca PyQt5</p> <a href="">https://pypi.org/project/PyQt5/</a> <br>
+<p align="center"> Biblioteca Pytube 10.4.1</p> <p align= "center"><a href="">https://pypi.org/project/pytube/</a></p>
 
 <br>
-<p> Biblioteca Pytube 10.4.1</p> <a href="">https://pypi.org/project/pytube/</a> <br>
-
-<br>
-<p> Biblioteca Pytube3 9.6.4</p> <a href="">https://pypi.org/project/pytube3/</a> <br>
+<p align= "center"> Biblioteca Pytube3 9.6.4</p> <p align= "center"> <a href="">https://pypi.org/project/pytube3/</a> </p> <br>
 
 </p>
 
@@ -32,6 +31,14 @@
 
 <h1 align="center">
   <img alt="NextLevelWeek" title="#ScreenShots" src="./screenshots/home.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#ScreenShots" src="./screenshots/home_link.png" />
+</h1>
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#ScreenShots" src="./screenshots/FileOpen.png" />
 </h1>
 
 
