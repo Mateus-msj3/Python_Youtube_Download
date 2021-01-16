@@ -12,15 +12,15 @@ Este programa tem como objetivo ser uma ferramenta prática para dar praticidade
 
 `Obs: É necessário ter um ambiente de desenvolvimento Python instalado em sua máquina.`
 
-[Python 3.8](https://www.python.org/downloads/)
+- [Python 3.8](https://www.python.org/downloads/)
 
-[VsCode](https://code.visualstudio.com/download)
+- [VsCode](https://code.visualstudio.com/download)
 
-[Biblioteca PyQt5](https://pypi.org/project/PyQt5/)
+- [Biblioteca PyQt5](https://pypi.org/project/PyQt5/)
 
-[Biblioteca Pytube 10.4.1](https://pypi.org/project/pytube/)
+- [Biblioteca Pytube 10.4.1](https://pypi.org/project/pytube/)
 
-[Biblioteca Pytube3 9.6.4](https://pypi.org/project/pytube3/)
+- [Biblioteca Pytube3 9.6.4](https://pypi.org/project/pytube3/)
 
 
 ## Screenshots
