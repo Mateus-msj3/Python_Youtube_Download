@@ -12,9 +12,12 @@ Este programa tem como objetivo ser uma ferramenta prática para dar praticidade
 
 `Obs: É necessário ter um ambiente de desenvolvimento Python instalado em sua máquina.`
 
+
 - [Python 3.8](https://www.python.org/downloads/)
 
 - [VsCode](https://code.visualstudio.com/download)
+
+Para acelerar a instalação das bibliotecas execute o comando `pip install -r requirements.txt`
 
 - [Biblioteca PyQt5](https://pypi.org/project/PyQt5/)
 
